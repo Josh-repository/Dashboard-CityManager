@@ -1,6 +1,5 @@
 # Sustainable City Management
-# Overview
-This is an interesting project that we assigned to complete as a part of course module Advance Software Engineering. The aim of this project was to develop a dashboard based website covering all major functionalites of a city manager in his dialy routine work. So that, the city manager can collect, analyze and make decision based on the data displayed on the dashboard developed. 
+ 
 # Pre-requisite Steps:
 Clone the Gitlab repository:
 ```
